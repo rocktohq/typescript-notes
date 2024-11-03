@@ -19,6 +19,7 @@
     }
   }
 
+  // Instance
   const bmwR8 = new Vehicle("BMW", "R8", true);
   const toyotaLandCruser = new Vehicle("TOYOTA", "Land Cruser", true);
   const gSeries = new Vehicle("Mercedes", "G-Class SUV", false);
@@ -40,6 +41,7 @@
     }
   }
 
+  // Instance
   const cat = new Animal("Cat", "Persian", "meow meow");
   cat.makeSound();
 
